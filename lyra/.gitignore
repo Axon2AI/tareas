@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.env
+venv/
+*.db
+*.sqlite
+.vscode/
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
+_pycache_/

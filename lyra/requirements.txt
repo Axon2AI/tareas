@@ -1,0 +1,15 @@
+PySide6
+google-api-python-client
+tinydb
+APScheduler
+openai
+langchain
+whisper
+pyttsx3
+cryptography
+python-dotenv
+PyYAML
+black
+flake8
+pytest
+pyinstaller
